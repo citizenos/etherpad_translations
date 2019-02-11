@@ -1,10 +1,10 @@
 {
     "epCitizenOSUserList.userList.text.anonymous": "+ {{count}} anonymous",
-    "epEmbedFloatingToolbar.authorList.authors": "Authors:",
+    "epEmbedFloatingToolbar.authorList.authors": "Autorid:",
     "epEmbedFloatingToolbar.toolbar.toggle.title": "Authorship colors",
     "ep_align.align": "Align",
     "ep_align.justify": "Justify",
-    "ep_align.left": "Left",
+    "ep_align.left": "Vasemb",
     "ep_align.middle": "Middle",
     "ep_align.right": "Right",
     "ep_comments_page.add_comment.title": "Add new comment on selection",
