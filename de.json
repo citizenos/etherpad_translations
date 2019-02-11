@@ -41,7 +41,7 @@
     "ep_headings.h4": "Heading 4",
     "ep_headings.h5": "Heading 5",
     "ep_headings.h6": "Heading 6",
-    "ep_headings.normal": "Das Normale",
+    "ep_headings.normal": "Normal",
     "ep_headings.style": "Style",
     "ep_image_upload.error.fileSize": "File is too large",
     "ep_image_upload.error.fileType": "Invalid file type",
