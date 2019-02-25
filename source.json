@@ -50,6 +50,7 @@
     "ep_page_view.page_breaks": "Page Breaks",
     "ep_page_view.page_view": "Page View",
     "ep_superscript.superscript": "Superscript",
+    "ep_title_limit.info": "Your title is getting very long - we suggest you narrowing it down to 100 characters to keep it simple and focused. Document titles get truncated in most representations except the document view",
     "index.createOpenPad": "or create/open a Pad with the name:",
     "index.newPad": "New Pad",
     "pad.chat": "Chat",
