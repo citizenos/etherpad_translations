@@ -1,7 +1,7 @@
 {
-    "epCitizenOSUserList.userList.text.anonymous": "",
+    "epCitizenOSUserList.userList.text.anonymous": "+ {{count}} anonym",
     "epEmbedFloatingToolbar.authorList.authors": "Autoren:",
-    "epEmbedFloatingToolbar.toolbar.toggle.title": "",
+    "epEmbedFloatingToolbar.toolbar.toggle.title": "Verfasserfarben",
     "ep_align.align": "Ausrichtung",
     "ep_align.justify": "Blocksatz",
     "ep_align.left": "Linksbündig",
