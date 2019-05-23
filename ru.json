@@ -68,7 +68,7 @@
     "pad.impexp.importing": "Импортирование…",
     "pad.impexp.padHasData": "We were not able to import this file because this pad has already had changes, please import to a new pad",
     "pad.impexp.uploadFailed": "Загрузка не удалась, пожалуйста, попробуйте ещё раз",
-    "pad.importExport.abiword.innerHTML": "You can only import from plain text or HTML documents. For more advanced import features please <a href=\"https\"://github.com/ether/etherpad-lite/wiki/How-to-enable-importing-and-exporting-different-file-formats-with-AbiWord\">install AbiWord</a>.",
+    "pad.importExport.abiword.innerHTML": "Вы можете импортировать только из обычного текста или HTML. Для расширенных функций импорта, пожалуйста,\n <a href=\"https://github.com/ether/etherpad-lite/wiki/How-to-enable-importing-and-exporting-different-file-formats-with-AbiWord\">установите AbiWord</a>.",
     "pad.importExport.export": "Экспортировать текущий документ как:",
     "pad.importExport.exportetherpad": "Etherpad",
     "pad.importExport.exporthtml": "HTML",
