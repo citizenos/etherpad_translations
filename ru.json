@@ -193,5 +193,22 @@
     "timeslider.toolbar.exportlink.title": "Экспорт",
     "timeslider.toolbar.returnbutton": "К документу",
     "timeslider.unnamedauthors": "{{num}} {[plural(num) one: безымянный автор, few: безымянных автора, many: безымянных авторов, other: безымянных авторов]}",
-    "timeslider.version": "Версия {{version}}"
+    "timeslider.version": "Версия {{version}}",
+    "ep_inline_voting.title_create_vote": "Create vote",
+    "ep_inline_voting.title_vote": "Mini-vote",
+    "ep_inline_voting.vote_title_label": "Add an optional vote description",
+    "ep_inline_voting.add_option": "Add another vote option",
+    "ep_inline_voting.cancel": "Cancel",
+    "ep_inline_voting.start_vote": "Start Vote",
+    "ep_inline_voting.define_vote_options": "Define vote options",
+    "ep_inline_voting.vote_options": "Vote options",
+    "ep_inline_voting.edit": "Edit",
+    "ep_inline_voting.close_vote": "Close Vote",
+    "ep_inline_voting.overwrite_the_selection": "Do you want to overwrite the selection?",
+    "ep_inline_voting.use_winning_vote_as_replacement": "Use the winning vote as a replacement for the selected text.",
+    "ep_inline_voting.original": "Original:",
+    "ep_inline_voting.replacement": "Replacement:",
+    "ep_inline_voting.no_keep_the_original": "NO, KEEP THE ORIGINAL",
+    "ep_inline_voting.yes_overwrite": "YES, OVERWRITE",
+    "ep_inline_voting.total_votes": "{{count}} votes"
 }
