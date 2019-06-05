@@ -208,6 +208,6 @@
     "ep_inline_voting.original": "Оригинал:",
     "ep_inline_voting.replacement": "Замена:",
     "ep_inline_voting.no_keep_the_original": "ОСТАВИТЬ ОРИГИНАЛ",
-    "ep_inline_voting.yes_overwrite": "YES, OVERWRITE",
+    "ep_inline_voting.yes_overwrite": "ПЕРЕПИСАТЬ",
     "ep_inline_voting.total_votes": "Голоса: {{count}}"
 }
