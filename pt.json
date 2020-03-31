@@ -33,7 +33,7 @@
     "ep_font_size.size": "Tamanho da fonte",
     "ep_foot_note.add_foot_note": "RP",
     "ep_foot_note.btn_cancel": "Cancelar",
-    "ep_foot_note.btn_submit": "Enviar",
+    "ep_foot_note.btn_submit": "Insert",
     "ep_foot_note.description": "Notas de rodapé podem incluir qualquer coisa desde uma citação até uma informação entre parênteses, informações externas, permissões de direitos autorais, informações de plano de fundo. O texto selecionado receberá um número para representar a explicação na parte inferior do tópico.",
     "ep_foot_note.input_placeholder": "Adicione sua nota de rodapé aqui…",
     "ep_foot_note.title": "Adicionar nota de rodapé",
