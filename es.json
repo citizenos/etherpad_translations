@@ -33,7 +33,7 @@
     "ep_font_size.size": "Tamaño de fuente",
     "ep_foot_note.add_foot_note": "NP",
     "ep_foot_note.btn_cancel": "Cancelar",
-    "ep_foot_note.btn_submit": "Guardar",
+    "ep_foot_note.btn_submit": "Insert",
     "ep_foot_note.description": "Las notas al pie pueden usarse para cualquier tipo de contenido, como una cita, información explicativa, fuentes externas, permisos de derechos de autor o antecedentes. Se asignará un número al texto seleccionado y se enlazará a la explicación en la parte inferior del tema.",
     "ep_foot_note.input_placeholder": "Agregue aquí la nota al pie…",
     "ep_foot_note.title": "Agregar una nota al pie",
