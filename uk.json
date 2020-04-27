@@ -33,7 +33,7 @@
     "ep_font_size.size": "Розмір шрифту",
     "ep_foot_note.add_foot_note": "FN",
     "ep_foot_note.btn_cancel": "Скасувати",
-    "ep_foot_note.btn_submit": "Ввести",
+    "ep_foot_note.btn_submit": "Insert",
     "ep_foot_note.description": "Примітки можуть включати будь що, від цитування до інформації у дужках, зовнішніх джерел, авторських дозволів, довідкової інформації. Виділений текст отримає номер, який посилатиметься на пояснення в нижній частині теми.",
     "ep_foot_note.input_placeholder": "Додайте свою примітку тут…",
     "ep_foot_note.title": "Додати примітку",
