@@ -33,7 +33,7 @@
     "ep_font_size.size": "Fondi suurus",
     "ep_foot_note.add_foot_note": "FN",
     "ep_foot_note.btn_cancel": "Loobu",
-    "ep_foot_note.btn_submit": "Insert",
+    "ep_foot_note.btn_submit": "Lisa",
     "ep_foot_note.description": "Allmärkused võivad sisaldada nii tsitaate, sulgudesse lisatud teavet, välistest allikatest pärinevat infot, autoriõiguste teavet kui ka taustateavet. Valitud tekst tähistatakse numbriga, mis viitab teema all olevale selgitusele.",
     "ep_foot_note.input_placeholder": "Lisa allmärkus siia…",
     "ep_foot_note.title": "Allmärkuse lisamine",
