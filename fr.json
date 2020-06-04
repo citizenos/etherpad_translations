@@ -33,7 +33,7 @@
     "ep_font_size.size": "Taille",
     "ep_foot_note.add_foot_note": "FN",
     "ep_foot_note.btn_cancel": "Annuler",
-    "ep_foot_note.btn_submit": "Insert",
+    "ep_foot_note.btn_submit": "Insérer",
     "ep_foot_note.description": "Les notes de bas de page peuvent inclure tout type d'information, d'une citation à une information entre parenthèses, en passant par des sources extérieures, des autorisations de droits d'auteur et des informations générales. Le texte sélectionné recevra un numéro qui fera référence à l'explication au bas du sujet.",
     "ep_foot_note.input_placeholder": "Ajoutez votre note de bas de page ici…",
     "ep_foot_note.title": "Ajouter une note de bas de page",
