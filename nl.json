@@ -38,6 +38,7 @@
     "ep_font_color.toolbar.font_color.title": "Tekstkleur",
     "ep_font_color.yellow": "geel",
     "ep_font_size.size": "Tekengrootte",
+    "ep_font_size.toolbar.font_size.title": "Font Size",
     "ep_foot_note.add_foot_note": "VT",
     "ep_foot_note.btn_cancel": "Annuleren",
     "ep_foot_note.btn_submit": "Invoegen",

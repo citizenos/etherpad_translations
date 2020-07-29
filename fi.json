@@ -38,6 +38,7 @@
     "ep_font_color.toolbar.font_color.title": "Tekstin väri",
     "ep_font_color.yellow": "keltainen",
     "ep_font_size.size": "Fonttikoko",
+    "ep_font_size.toolbar.font_size.title": "Font Size",
     "ep_foot_note.add_foot_note": "Alaviite",
     "ep_foot_note.btn_cancel": "Peruuta",
     "ep_foot_note.btn_submit": "Lisää",

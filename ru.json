@@ -38,6 +38,7 @@
     "ep_font_color.toolbar.font_color.title": "Цвет шрифта",
     "ep_font_color.yellow": "желтый",
     "ep_font_size.size": "Размер шрифта",
+    "ep_font_size.toolbar.font_size.title": "Font Size",
     "ep_foot_note.add_foot_note": "FN",
     "ep_foot_note.btn_cancel": "Отмена",
     "ep_foot_note.btn_submit": "Вставить",

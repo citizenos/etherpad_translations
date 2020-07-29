@@ -38,6 +38,7 @@
     "ep_font_color.toolbar.font_color.title": "Schriftfarbe",
     "ep_font_color.yellow": "gelb",
     "ep_font_size.size": "Schriftgröße",
+    "ep_font_size.toolbar.font_size.title": "Font Size",
     "ep_foot_note.add_foot_note": "FN",
     "ep_foot_note.btn_cancel": "Abbrechen",
     "ep_foot_note.btn_submit": "Einfügen",

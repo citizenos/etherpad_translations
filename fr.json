@@ -38,6 +38,7 @@
     "ep_font_color.toolbar.font_color.title": "Couleur de la police",
     "ep_font_color.yellow": "jaune",
     "ep_font_size.size": "Taille",
+    "ep_font_size.toolbar.font_size.title": "Font Size",
     "ep_foot_note.add_foot_note": "FN",
     "ep_foot_note.btn_cancel": "Annuler",
     "ep_foot_note.btn_submit": "Insérer",
