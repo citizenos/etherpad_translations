@@ -6,6 +6,7 @@
     "ep_align.toolbar.right.title": "По правому краю",
     "ep_comments_page.add_comment.hint": "Выберите текст для комментирования",
     "ep_comments_page.add_comment.title": "Добавить новый комментарий к выбору",
+    "ep_comments_page.add_comment": "Add new comment on selection",
     "ep_comments_page.comment": "Комментарий",
     "ep_comments_page.comments": "Комментарии",
     "ep_comments_page.comments_template.accept_change.value": "Принять изменения",
