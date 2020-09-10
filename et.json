@@ -20,7 +20,7 @@
     "ep_comments_page.comments_template.revert_change.value": "Tühista muudatus",
     "ep_comments_page.comments_template.suggested_change_from": "Soovitas \"{{changeFrom}}\" asemel kasutada \"{{changeTo}}\"",
     "ep_comments_page.comments_template.suggested_change": "Muudatusettepanek",
-    "ep_comments_page.comments_template.suggest_change_from": "Soovitad \"{{changeFrom}}\" asemel kasutada:",
+    "ep_comments_page.comments_template.suggest_change_from": "Soovitad {{changeFrom}} asemel kasutada:",
     "ep_comments_page.delete_comment.title": "Kustuta kommentaar",
     "ep_comments_page.edit_comment.title": "Muuda kommentaari",
     "ep_comments_page.error": "Viga",
