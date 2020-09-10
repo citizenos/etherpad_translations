@@ -6,6 +6,7 @@
     "ep_align.toolbar.right.title": "Droit",
     "ep_comments_page.add_comment.hint": "Please first select the text to comment",
     "ep_comments_page.add_comment.title": "Annoter la sélection",
+    "ep_comments_page.add_comment": "Annoter la sélection",
     "ep_comments_page.comment": "Annotation",
     "ep_comments_page.comments": "Annotations",
     "ep_comments_page.comments_template.accept_change.value": "Accepter la modification",
