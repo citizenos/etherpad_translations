@@ -6,6 +6,7 @@
     "ep_align.toolbar.right.title": "Oikealle",
     "ep_comments_page.add_comment.hint": "Valitse ensin kommentoitava teksti",
     "ep_comments_page.add_comment.title": "Lisää uusi kommentti valittuun tekstiin",
+    "ep_comments_page.add_comment": "Add new comment on selection",
     "ep_comments_page.comment": "Kommentti",
     "ep_comments_page.comments": "Kommentit",
     "ep_comments_page.comments_template.accept_change.value": "Hyväksy muutos",
