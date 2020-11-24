@@ -1,9 +1,9 @@
 {
     "ep_align.align": "Alignement",
-    "ep_align.toolbar.justify.title": "Justifié",
-    "ep_align.toolbar.left.title": "Gauche",
-    "ep_align.toolbar.middle.title": "Milieu",
-    "ep_align.toolbar.right.title": "Droit",
+    "ep_align.justify": "Justify",
+    "ep_align.left": "Left",
+    "ep_align.middle": "Middle",
+    "ep_align.right": "Right",
     "ep_comments_page.add_comment.hint": "Veuillez d'abord sélectionner le texte à commenter",
     "ep_comments_page.add_comment.title": "Annoter la sélection",
     "ep_comments_page.add_comment": "Annoter la sélection",
