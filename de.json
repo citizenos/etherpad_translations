@@ -1,9 +1,9 @@
 {
     "ep_align.align": "Ausrichtung",
-    "ep_align.toolbar.justify.title": "Ausrichten",
-    "ep_align.toolbar.left.title": "Linksbündig",
-    "ep_align.toolbar.middle.title": "Zentriert",
-    "ep_align.toolbar.right.title": "Rechtsbündig",
+    "ep_align.justify": "Justify",
+    "ep_align.left": "Left",
+    "ep_align.middle": "Middle",
+    "ep_align.right": "Right",
     "ep_comments_page.add_comment.hint": "Bitte wählen Sie zuerst den zu kommentierenden Text aus",
     "ep_comments_page.add_comment.title": "Kommentar zur Auswahl hinzufügen",
     "ep_comments_page.add_comment": "Kommentar zur Auswahl hinzufügen",
