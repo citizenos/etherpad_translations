@@ -1,9 +1,9 @@
 {
     "ep_align.align": "Выравнивание",
-    "ep_align.toolbar.justify.title": "Растянуть",
-    "ep_align.toolbar.left.title": "По левому краю",
-    "ep_align.toolbar.middle.title": "По центру",
-    "ep_align.toolbar.right.title": "По правому краю",
+    "ep_align.justify": "Justify",
+    "ep_align.left": "Left",
+    "ep_align.middle": "Middle",
+    "ep_align.right": "Right",
     "ep_comments_page.add_comment.hint": "Выберите текст для комментирования",
     "ep_comments_page.add_comment.title": "Добавить новый комментарий к выбору",
     "ep_comments_page.add_comment": "Добавить новый комментарий к выбору",
