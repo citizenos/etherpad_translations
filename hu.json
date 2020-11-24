@@ -1,9 +1,9 @@
 {
     "ep_align.align": "Igazítás",
-    "ep_align.toolbar.justify.title": "Sorkizárás",
-    "ep_align.toolbar.left.title": "Balra",
-    "ep_align.toolbar.middle.title": "Középre",
-    "ep_align.toolbar.right.title": "Jobbra",
+    "ep_align.justify": "Justify",
+    "ep_align.left": "Left",
+    "ep_align.middle": "Middle",
+    "ep_align.right": "Right",
     "ep_comments_page.add_comment.hint": "Kérjük, először válassza ki a szöveget a megjegyzéshez",
     "ep_comments_page.add_comment.title": "Új megjegyzés hozzáfűzése a kijelölt részhez",
     "ep_comments_page.add_comment": "Új megjegyzés hozzáfűzése a kijelölt részhez",

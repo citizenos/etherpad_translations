@@ -1,9 +1,9 @@
 {
     "ep_align.align": "Израмни",
-    "ep_align.toolbar.justify.title": "Изедначи",
-    "ep_align.toolbar.left.title": "Лево",
-    "ep_align.toolbar.middle.title": "Средина",
-    "ep_align.toolbar.right.title": "Десно",
+    "ep_align.justify": "Justify",
+    "ep_align.left": "Left",
+    "ep_align.middle": "Middle",
+    "ep_align.right": "Right",
     "ep_comments_page.add_comment.hint": "Ве молиме, прво изберете го текстот за да коментирате",
     "ep_comments_page.add_comment.title": "Додај нов коментар за селекцијата",
     "ep_comments_page.add_comment": "Додај нов коментар за селекцијата",

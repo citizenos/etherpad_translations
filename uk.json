@@ -1,9 +1,9 @@
 {
     "ep_align.align": "Вирівняти",
-    "ep_align.toolbar.justify.title": "По ширині",
-    "ep_align.toolbar.left.title": "Ліворуч",
-    "ep_align.toolbar.middle.title": "Посередині",
-    "ep_align.toolbar.right.title": "Праворуч",
+    "ep_align.justify": "Justify",
+    "ep_align.left": "Left",
+    "ep_align.middle": "Middle",
+    "ep_align.right": "Right",
     "ep_comments_page.add_comment.hint": "Будь ласка, спочатку оберіть текст для коментаря",
     "ep_comments_page.add_comment.title": "Додати до обраного новий коментар",
     "ep_comments_page.add_comment": "Додати до обраного новий коментар",
