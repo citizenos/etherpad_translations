@@ -1,9 +1,9 @@
 {
     "ep_align.align": "Joonda",
-    "ep_align.justify": "Justify",
-    "ep_align.left": "Left",
-    "ep_align.middle": "Middle",
-    "ep_align.right": "Right",
+    "ep_align.justify": "Rööpjoonda",
+    "ep_align.left": "Joonda vasakule",
+    "ep_align.middle": "Keskele",
+    "ep_align.right": "Paremale",
     "ep_comments_page.add_comment.hint": "Kommenteerimiseks vali kõigepealt tekst",
     "ep_comments_page.add_comment.title": "Kommenteeri valitud teksti",
     "ep_comments_page.add_comment": "Kommenteeri valitud teksti",
