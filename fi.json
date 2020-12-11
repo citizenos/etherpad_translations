@@ -1,9 +1,9 @@
 {
     "ep_align.align": "Kohdista",
-    "ep_align.justify": "Justify",
-    "ep_align.left": "Left",
-    "ep_align.middle": "Middle",
-    "ep_align.right": "Right",
+    "ep_align.justify": "Tasaa",
+    "ep_align.left": "Vasemmalle",
+    "ep_align.middle": "Keskitä",
+    "ep_align.right": "Oikealle",
     "ep_comments_page.add_comment.hint": "Valitse ensin kommentoitava teksti",
     "ep_comments_page.add_comment.title": "Lisää uusi kommentti valittuun tekstiin",
     "ep_comments_page.add_comment": "Lisää uusi kommentti valittuun tekstiin",
