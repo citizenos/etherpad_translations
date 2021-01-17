@@ -1,9 +1,9 @@
 {
     "ep_align.align": "Uitlijnen",
-    "ep_align.justify": "Justify",
-    "ep_align.left": "Left",
-    "ep_align.middle": "Middle",
-    "ep_align.right": "Right",
+    "ep_align.justify": "Uitvullen",
+    "ep_align.left": "Links",
+    "ep_align.middle": "Midden",
+    "ep_align.right": "Rechts",
     "ep_comments_page.add_comment.hint": "Selecteer eerste de tekst om op te reageren",
     "ep_comments_page.add_comment.title": "Nieuwe reactie toevoegen aan selectie",
     "ep_comments_page.add_comment": "Nieuwe reactie toevoegen aan selectie",
