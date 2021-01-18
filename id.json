@@ -1,9 +1,9 @@
 {
     "ep_align.align": "Sejajarkan",
-    "ep_align.toolbar.justify.title": "Ratakan",
-    "ep_align.toolbar.left.title": "Kiri",
-    "ep_align.toolbar.middle.title": "Tengah",
-    "ep_align.toolbar.right.title": "Kanan",
+    "ep_align.justify": "Ratakan",
+    "ep_align.left": "Kiri",
+    "ep_align.middle": "Tengah",
+    "ep_align.right": "Kanan",
     "ep_comments_page.add_comment.hint": "Pilih teks untuk dikomentari terlebih dahulu",
     "ep_comments_page.add_comment.title": "Tambahkan komentar baru pada pilihan",
     "ep_comments_page.add_comment": "Tambahkan komentar baru pada pilihan",

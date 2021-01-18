@@ -1,9 +1,9 @@
 {
     "ep_align.align": "Alinear",
-    "ep_align.toolbar.justify.title": "Justificar",
-    "ep_align.toolbar.left.title": "Izquierda",
-    "ep_align.toolbar.middle.title": "Medio",
-    "ep_align.toolbar.right.title": "Derecha",
+    "ep_align.justify": "Justify",
+    "ep_align.left": "Left",
+    "ep_align.middle": "Middle",
+    "ep_align.right": "Right",
     "ep_comments_page.add_comment.hint": "Para añadir un comentario, primero tiene que seleccionar el texto",
     "ep_comments_page.add_comment.title": "Agregar nuevo comentario sobre el texto seleccionado",
     "ep_comments_page.add_comment": "Agregar nuevo comentario sobre el texto seleccionado",

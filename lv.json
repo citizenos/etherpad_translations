@@ -1,9 +1,9 @@
 {
     "ep_align.align": "Savietot",
-    "ep_align.toolbar.justify.title": "Izlīdzināt",
-    "ep_align.toolbar.left.title": "Kreisā puse",
-    "ep_align.toolbar.middle.title": "Vidus",
-    "ep_align.toolbar.right.title": "Labā puse",
+    "ep_align.justify": "Izlīdzināt",
+    "ep_align.left": "Pa kreisi",
+    "ep_align.middle": "Pa vidu",
+    "ep_align.right": "Pa labi",
     "ep_comments_page.add_comment.hint": "Vispirms atlasiet tekstu, kuru vēlaties komentēt",
     "ep_comments_page.add_comment.title": "Pievienot jaunu komentāru atlasītajam",
     "ep_comments_page.add_comment": "Pievienot jaunu komentāru atlasītajam",

@@ -1,9 +1,9 @@
 {
     "ep_align.align": "Wyrównaj",
-    "ep_align.toolbar.justify.title": "Wyjustuj",
-    "ep_align.toolbar.left.title": "Po lewej",
-    "ep_align.toolbar.middle.title": "Wyśrodkowane",
-    "ep_align.toolbar.right.title": "Do prawej",
+    "ep_align.justify": "Justify",
+    "ep_align.left": "Left",
+    "ep_align.middle": "Middle",
+    "ep_align.right": "Right",
     "ep_comments_page.add_comment.hint": "Najpierw wybierz tekst do skomentowania",
     "ep_comments_page.add_comment.title": "Dodaj nowy komentarz do zaznaczenia",
     "ep_comments_page.add_comment": "Dodaj nowy komentarz do zaznaczenia",
