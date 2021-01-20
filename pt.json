@@ -1,9 +1,9 @@
 {
     "ep_align.align": "Alinhar",
-    "ep_align.justify": "Justify",
-    "ep_align.left": "Left",
-    "ep_align.middle": "Middle",
-    "ep_align.right": "Right",
+    "ep_align.justify": "Justificar",
+    "ep_align.left": "Esquerda",
+    "ep_align.middle": "Meio",
+    "ep_align.right": "Direita",
     "ep_comments_page.add_comment.hint": "Selecione primeiro o texto para comentar",
     "ep_comments_page.add_comment.title": "Adicionar novo comentário na seleção",
     "ep_comments_page.add_comment": "Adicionar novo comentário na seleção",
