@@ -28,7 +28,7 @@
     "ep_comments_page.comments_template.to": "To:",
     "ep_comments_page.delete_comment.title": "Удалить этот комментарий",
     "ep_comments_page.edit_comment.title": "Редактировать комментарий",
-    "ep_comments_page.error.delete_unauth": "Deleting other users comments is not allowed",
+    "ep_comments_page.error.delete_unauth": "Deleting other users’ comments is not allowed",
     "ep_comments_page.error.edit_unauth": "Нельзя редактировать чужие комментарии",
     "ep_comments_page.show_comments": "Показать комментарии",
     "ep_font_color.black": "черный",
