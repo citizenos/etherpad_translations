@@ -183,7 +183,7 @@
     "timeslider.backRevision": "Přejít zpět na revizi v tomto padu",
     "timeslider.dateformat": "{{month}}/{{day}}/{{year}} {{hours}}:{{minutes}}:{{seconds}}",
     "timeslider.exportCurrent": "Export current version as:",
-    "timeslider.followContents": "Follow pad content updates",
+    "timeslider.followContents": "Sledovat aktualizace obsahu padu",
     "timeslider.forwardRevision": "Přejít vpřed na revizi v tomto padu",
     "timeslider.month.april": "Duben",
     "timeslider.month.august": "Srpen",
