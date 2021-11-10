@@ -25,7 +25,7 @@
     "ep_comments_page.comments_template.suggest_change_from": "Пропонується змінити \"{{changeFrom}}\" на",
     "ep_comments_page.comments_template.suggested_change": "Пропонована зміна",
     "ep_comments_page.comments_template.suggested_change_from": "Запропонована зміна з \"{{changeFrom}}\" на \"{{changeTo}}\"",
-    "ep_comments_page.comments_template.to": "To:",
+    "ep_comments_page.comments_template.to": "На:",
     "ep_comments_page.delete_comment.title": "Видалити цей коментар",
     "ep_comments_page.edit_comment.title": "Редагувати цей коментар",
     "ep_comments_page.error.delete_unauth": "Deleting other users comments is not allowed",
