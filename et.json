@@ -25,7 +25,7 @@
     "ep_comments_page.comments_template.suggest_change_from": "Soovitad {{changeFrom}} asemel kasutada:",
     "ep_comments_page.comments_template.suggested_change": "Muudatusettepanek",
     "ep_comments_page.comments_template.suggested_change_from": "Soovitas \"{{changeFrom}}\" asemel kasutada \"{{changeTo}}\"",
-    "ep_comments_page.comments_template.to": "To:",
+    "ep_comments_page.comments_template.to": "Uus tekst:",
     "ep_comments_page.delete_comment.title": "Kustuta kommentaar",
     "ep_comments_page.edit_comment.title": "Muuda kommentaari",
     "ep_comments_page.error.delete_unauth": "Deleting other users comments is not allowed",
