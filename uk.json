@@ -29,7 +29,7 @@
     "ep_comments_page.delete_comment.title": "Видалити цей коментар",
     "ep_comments_page.edit_comment.title": "Редагувати цей коментар",
     "ep_comments_page.error.delete_unauth": "Deleting other users’ comments is not allowed",
-    "ep_comments_page.error.edit_unauth": "Editing other users’ comments is not allowed",
+    "ep_comments_page.error.edit_unauth": "Редагування коментарів інших користувачів не дозволене",
     "ep_comments_page.show_comments": "Показати коментарі",
     "ep_font_color.black": "чорний",
     "ep_font_color.blue": "синій",
