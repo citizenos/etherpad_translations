@@ -181,7 +181,7 @@
     "pad.userlist.entername": "Zadejte své jméno",
     "pad.userlist.unnamed": "bez názvu",
     "timeslider.backRevision": "Přejít zpět na revizi v tomto padu",
-    "timeslider.dateformat": "{{month}}/{{day}}/{{year}} {{hours}}:{{minutes}}:{{seconds}}",
+    "timeslider.dateformat": "{{hours}}:{{minutes}}:{{seconds}}, {{day}}. {{month}}. {{year}}",
     "timeslider.exportCurrent": "Export current version as:",
     "timeslider.followContents": "Sledovat aktualizace obsahu padu",
     "timeslider.forwardRevision": "Přejít vpřed na revizi v tomto padu",
