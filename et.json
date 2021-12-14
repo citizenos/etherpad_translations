@@ -141,7 +141,7 @@
     "pad.modals.userdup": "Käesolev dokument on avatud teises aknas",
     "pad.modals.userdup.advice": "Kasuta käesolevat akent teiste asemel.",
     "pad.modals.userdup.explanation": "Käesolev dokument paistab olevat avatud selles arvutis rohkem kui ühes brauseriaknas.",
-    "pad.noCookie": "Cookie could not be found. Please allow cookies in your browser. Your session and settings will not be saved between visits. This may be due to Etherpad being included in an iFrame in some Browsers. Please ensure Etherpad is on the same subdomain/domain as the parent iFrame",
+    "pad.noCookie": "Küpsist ei leitud. Palun luba oma brauseris küpsiste kasutamine. Sinu sessiooni ja seadeid külastuste vahel ei salvestata. Osade brauserite puhul on probleemiks Etherpadi kasutamine iFrame sees. Palun vaata, et Etherpad oleks samas (alam)domeenis kui teda sisaldav iFrame.",
     "pad.permissionDenied": "Sul puuduvad ligipääsuõigused selle klade rööptoimetamiseks",
     "pad.savedrevs.marked": "Versioon märgiti salvestatuna",
     "pad.savedrevs.timeslider": "Salvestatud parandusi näed ajaliuguril",
