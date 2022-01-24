@@ -80,7 +80,7 @@
     "ep_title_limit.info": "Judul terlalu panjang - kami menyarankan Anda memendekkannya hingga 100 karakter untuk menjaganya tetap sederhana dan fokus. Judul dokumen menjadi terpotong di sebagian besar representasi kecuali tampilan dokumen",
     "index.createOpenPad": "or create/open a pad with the name:",
     "index.newPad": "New pad",
-    "index.openPad": "open an existing pad with the name:",
+    "index.openPad": "buka pad yang ada dengan nama:",
     "pad.chat": "Obrolan",
     "pad.chat.loadmessages": "Memuat lebih banyak pesan",
     "pad.chat.stick.title": "Stick chat to screen",
