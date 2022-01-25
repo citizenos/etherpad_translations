@@ -25,7 +25,7 @@
     "ep_comments_page.comments_template.suggest_change_from": "Попробуйте изменить \"{{changeFrom}}\" на",
     "ep_comments_page.comments_template.suggested_change": "Предложенная версия",
     "ep_comments_page.comments_template.suggested_change_from": "Предложенное изменение: \"{{changeTo}}\" вместо \"{{changeFrom}}\"",
-    "ep_comments_page.comments_template.to": "To:",
+    "ep_comments_page.comments_template.to": "До:",
     "ep_comments_page.delete_comment.title": "Удалить этот комментарий",
     "ep_comments_page.edit_comment.title": "Редактировать комментарий",
     "ep_comments_page.error.delete_unauth": "Deleting other users’ comments is not allowed",
