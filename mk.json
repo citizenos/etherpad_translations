@@ -181,7 +181,7 @@
     "pad.userlist.entername": "Внесете го вашето име",
     "pad.userlist.unnamed": "без име",
     "timeslider.backRevision": "Назад за една преработка на тетратката",
-    "timeslider.dateformat": "{{month}}/{{day}}/{{year}} {{hours}}:{{minutes}}:{{seconds}}",
+    "timeslider.dateformat": "{{day}}.{{month}}.{{year}} {{hours}}:{{minutes}}:{{seconds}}",
     "timeslider.exportCurrent": "Извези ја тековната верзија како:",
     "timeslider.followContents": "Следете го ажурирањето на содржината на тетратката",
     "timeslider.forwardRevision": "Напред за една преработка на тетратката",
